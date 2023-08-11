@@ -18,7 +18,7 @@ export default function Rodape() {
                 <div>
                     <h3>HORARIO</h3>
                     <p>aberto todos os dias</p>
-                    <p>de 10:00 a 22:00</p>
+                    <p>de 10:00 as 22:00</p>
                 </div>
                 <div className="limitar-secao direito-autoral">
                     <p>Gelateria: desenvolvido por;# ISAIAS</p>
