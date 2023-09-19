@@ -1,12 +1,11 @@
-import Rotas from './rotas';
-import './App.css';
+import "./App.css";
 
 function App() {
-  return (
-    <div>
-      <Rotas />
-    </div>
-  );
+    return (
+        <div>
+            <p>isaias</p>
+        </div>
+    );
 }
 
 export default App;
